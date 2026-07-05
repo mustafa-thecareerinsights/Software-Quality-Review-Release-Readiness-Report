@@ -1,6 +1,0 @@
-Browser,Platform,Device Type,Status,Notes
-Chrome - Latest,Windows 11,Desktop,Pass,"Core pages, forms, navigation, and assets reviewed."
-Microsoft Edge - Latest,Windows 11,Desktop,Pass,No layout or functional blocker observed.
-Firefox - Latest,Windows 11,Desktop,Pass,Basic UI and validation workflow reviewed successfully.
-Safari - iOS,iPhone viewport,Mobile,Minor Fix,Responsive layout usable; tables need better mobile presentation.
-Chrome - Android,Android viewport,Mobile,Minor Fix,Core workflow usable; table layout can be improved.
